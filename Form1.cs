@@ -17,5 +17,9 @@ namespace CRUD_C_SHARP
             InitializeComponent();
         }
 
+        private void Nome_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
