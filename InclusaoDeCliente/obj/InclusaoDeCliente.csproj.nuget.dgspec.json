@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\CRUD C-SHARP\\CRUD C-SHARP.csproj": {}
+    "C:\\Projetos\\CRUD C-SHARP\\InclusaoDeCliente\\InclusaoDeCliente.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\CRUD C-SHARP\\CRUD C-SHARP.csproj": {
+    "C:\\Projetos\\CRUD C-SHARP\\InclusaoDeCliente\\InclusaoDeCliente.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\CRUD C-SHARP\\CRUD C-SHARP.csproj",
-        "projectName": "CRUD C-SHARP",
-        "projectPath": "C:\\Projetos\\CRUD C-SHARP\\CRUD C-SHARP.csproj",
+        "projectUniqueName": "C:\\Projetos\\CRUD C-SHARP\\InclusaoDeCliente\\InclusaoDeCliente.csproj",
+        "projectName": "InclusaoDeCliente",
+        "projectPath": "C:\\Projetos\\CRUD C-SHARP\\InclusaoDeCliente\\InclusaoDeCliente.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\CRUD C-SHARP\\obj\\",
+        "outputPath": "C:\\Projetos\\CRUD C-SHARP\\InclusaoDeCliente\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -45,12 +45,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.8.5, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

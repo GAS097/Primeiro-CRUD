@@ -1,0 +1,24 @@
+C:\Projetos\CRUD C-SHARP\bin\Debug\netcoreapp3.1\CRUD C-SHARP.exe
+C:\Projetos\CRUD C-SHARP\bin\Debug\netcoreapp3.1\CRUD C-SHARP.deps.json
+C:\Projetos\CRUD C-SHARP\bin\Debug\netcoreapp3.1\CRUD C-SHARP.runtimeconfig.json
+C:\Projetos\CRUD C-SHARP\bin\Debug\netcoreapp3.1\CRUD C-SHARP.runtimeconfig.dev.json
+C:\Projetos\CRUD C-SHARP\bin\Debug\netcoreapp3.1\CRUD C-SHARP.dll
+C:\Projetos\CRUD C-SHARP\bin\Debug\netcoreapp3.1\CRUD C-SHARP.pdb
+C:\Projetos\CRUD C-SHARP\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Projetos\CRUD C-SHARP\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projetos\CRUD C-SHARP\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projetos\CRUD C-SHARP\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projetos\CRUD C-SHARP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projetos\CRUD C-SHARP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projetos\CRUD C-SHARP\obj\Debug\netcoreapp3.1\CRUD C-SHARP.csproj.AssemblyReference.cache
+C:\Projetos\CRUD C-SHARP\obj\Debug\netcoreapp3.1\CRUD_C_SHARP.Cadastro_de_clientes.resources
+C:\Projetos\CRUD C-SHARP\obj\Debug\netcoreapp3.1\CRUD C-SHARP.csproj.GenerateResource.cache
+C:\Projetos\CRUD C-SHARP\obj\Debug\netcoreapp3.1\CRUD C-SHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CRUD C-SHARP\obj\Debug\netcoreapp3.1\CRUD C-SHARP.AssemblyInfoInputs.cache
+C:\Projetos\CRUD C-SHARP\obj\Debug\netcoreapp3.1\CRUD C-SHARP.AssemblyInfo.cs
+C:\Projetos\CRUD C-SHARP\obj\Debug\netcoreapp3.1\CRUD C-SHARP.csproj.CoreCompileInputs.cache
+C:\Projetos\CRUD C-SHARP\obj\Debug\netcoreapp3.1\CRUD C-SHARP.csproj.CopyComplete
+C:\Projetos\CRUD C-SHARP\obj\Debug\netcoreapp3.1\CRUD C-SHARP.dll
+C:\Projetos\CRUD C-SHARP\obj\Debug\netcoreapp3.1\CRUD C-SHARP.pdb
+C:\Projetos\CRUD C-SHARP\obj\Debug\netcoreapp3.1\CRUD C-SHARP.genruntimeconfig.cache
+C:\Projetos\CRUD C-SHARP\obj\Debug\netcoreapp3.1\InclusaoDeCliente.InclusaoDeCliente.resources
